@@ -5,7 +5,7 @@ O objetivo deste repositório é reunir os projetos que tenho feito na área de 
 # Projetos
 
 ## Machine Learning
-[Credit Card Fraud Detector (WIP)](https://github.com/Marcos-Vinicius-Santos-Ramos/Machine-Learning-and-Credit-Card-Fraud-Detection)
+[Credit Card Fraud Detector](https://github.com/Marcos-Vinicius-Santos-Ramos/Machine-Learning-and-Credit-Card-Fraud-Detection)
 
 <!--
 ## Insights
